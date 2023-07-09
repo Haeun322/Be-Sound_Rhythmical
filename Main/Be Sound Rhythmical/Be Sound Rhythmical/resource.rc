@@ -1,0 +1,113 @@
+// Microsoft Visual C++ generated resource script.
+//
+#pragma code_page(949)
+
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "winres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// ?????(????α?) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_KOR)
+LANGUAGE LANG_KOREAN, SUBLANG_DEFAULT
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE 
+BEGIN
+    "\0"
+END
+
+3 TEXTINCLUDE 
+BEGIN
+    "\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Bitmap
+//
+
+IDB_BITMAP_RankS        BITMAP                  "C:\\Users\\kimhe\\OneDrive\\문서\\Be sound rhythmical\\Main\\resource\\S.bmp"
+
+IDB_BITMAP_RankA        BITMAP                  "C:\\Users\\kimhe\\OneDrive\\문서\\Be sound rhythmical\\Main\\resource\\A (1).bmp"
+
+IDB_BITMAP_RankB        BITMAP                  "C:\\Users\\kimhe\\OneDrive\\문서\\Be sound rhythmical\\Main\\resource\\B (1).bmp"
+
+IDB_BITMAP_RankC        BITMAP                  "C:\\Users\\kimhe\\OneDrive\\문서\\Be sound rhythmical\\Main\\resource\\C.bmp"
+
+IDB_BITMAP_KOOL         BITMAP                  "C:\\Users\\kimhe\\OneDrive\\문서\\Be sound rhythmical\\Main\\resource\\KOOL.bmp"
+
+IDB_BITMAP_COOL         BITMAP                  "C:\\Users\\kimhe\\OneDrive\\문서\\Be sound rhythmical\\Main\\resource\\COOL.bmp"
+
+IDB_BITMAP_GOOD         BITMAP                  "C:\\Users\\kimhe\\OneDrive\\문서\\Be sound rhythmical\\Main\\resource\\GOOD.bmp"
+
+IDB_BITMAP_BAD          BITMAP                  "C:\\Users\\kimhe\\OneDrive\\문서\\Be sound rhythmical\\Main\\resource\\BAD.bmp"
+
+IDB_BITMAP_MISS         BITMAP                  "C:\\Users\\kimhe\\OneDrive\\문서\\Be sound rhythmical\\Main\\resource\\MISS.bmp"
+
+IDB_BITMAP_NOTE         BITMAP                  "C:\\Users\\kimhe\\OneDrive\\문서\\Be sound rhythmical\\Main\\resource\\mania-note1.bmp"
+
+IDB_BITMAP_HEALTH       BITMAP                  "C:\\Users\\kimhe\\OneDrive\\문서\\Be sound rhythmical\\Main\\resource\\health.bmp"
+
+IDB_BITMAP_LINE         BITMAP                  "C:\\Users\\kimhe\\OneDrive\\문서\\Be sound rhythmical\\Main\\resource\\bar_line.bmp"
+
+IDB_BITMAP_BAR          BITMAP                  "C:\\Users\\kimhe\\OneDrive\\문서\\Be sound rhythmical\\Main\\resource\\line.bmp"
+
+IDB_BITMAP_NOTE_LINE    BITMAP                  "C:\\Users\\kimhe\\OneDrive\\문서\\Be sound rhythmical\\Main\\resource\\Note_Line.bmp"
+
+IDB_BITMAP_Title        BITMAP                  "C:\\Users\\kimhe\\OneDrive\\문서\\Be sound rhythmical\\Main\\resource\\Title.bmp"
+
+IDB_BITMAP_LINE2        BITMAP                  "C:\\Users\\kimhe\\OneDrive\\문서\\Be sound rhythmical\\Main\\resource\\line2.bmp"
+
+IDB_BITMAP_BACK         BITMAP                  "C:\\Users\\kimhe\\OneDrive\\문서\\Be sound rhythmical\\Main\\resource\\background.bmp"
+
+IDB_BITMAP_ground       BITMAP                  "C:\\Users\\kimhe\\OneDrive\\문서\\Be sound rhythmical\\Main\\resource\\background1.bmp"
+
+IDB_BITMAP_ground1      BITMAP                  "C:\\Users\\kimhe\\OneDrive\\문서\\Be sound rhythmical\\Main\\resource\\background2.bmp"
+
+IDB_BITMAP_RANKING      BITMAP                  "C:\\Users\\kimhe\\OneDrive\\문서\\Be sound rhythmical\\Main\\resource\\ranking-panel.bmp"
+
+IDB_BITMAP_PASS         BITMAP                  "C:\\Users\\kimhe\\OneDrive\\문서\\Be sound rhythmical\\Main\\resource\\pass.bmp"
+
+IDB_BITMAP_PIANOLEFT    BITMAP                  "C:\\Users\\kimhe\\OneDrive\\문서\\Be sound rhythmical\\Main\\resource\\pianoleft.bmp"
+
+IDB_BITMAP_PIANORIGHT   BITMAP                  "C:\\Users\\kimhe\\OneDrive\\문서\\Be sound rhythmical\\Main\\resource\\pianoright.bmp"
+
+#endif    // 한국어(대한민국) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+
