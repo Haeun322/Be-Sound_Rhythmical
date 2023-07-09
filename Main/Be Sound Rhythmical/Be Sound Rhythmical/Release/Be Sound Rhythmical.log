@@ -1,0 +1,84 @@
+﻿  main.c
+C:\Users\kimhe\OneDrive\문서\Programming Project\Main\Be Sound Rhythmical\Be Sound Rhythmical\gameplay.h(33,1): warning C4005: 'UP': 매크로 재정의
+C:\Users\kimhe\OneDrive\문서\Programming Project\Main\Be Sound Rhythmical\Be Sound Rhythmical\gameplay.h(28,1): message : 'UP'의 이전 정의를 참조하십시오.
+C:\Users\kimhe\OneDrive\문서\Programming Project\Main\Be Sound Rhythmical\Be Sound Rhythmical\gameplay.h(34,1): warning C4005: 'DOWN': 매크로 재정의
+C:\Users\kimhe\OneDrive\문서\Programming Project\Main\Be Sound Rhythmical\Be Sound Rhythmical\gameplay.h(29,1): message : 'DOWN'의 이전 정의를 참조하십시오.
+C:\Users\kimhe\OneDrive\문서\Programming Project\Main\Be Sound Rhythmical\Be Sound Rhythmical\gameplay.h(35,1): warning C4005: 'ENTER': 매크로 재정의
+C:\Users\kimhe\OneDrive\문서\Programming Project\Main\Be Sound Rhythmical\Be Sound Rhythmical\gameplay.h(30,1): message : 'ENTER'의 이전 정의를 참조하십시오.
+C:\Users\kimhe\OneDrive\문서\Programming Project\Main\Be Sound Rhythmical\Be Sound Rhythmical\gameplay.h(152,11): warning C4098: 'load_score': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\kimhe\OneDrive\문서\Programming Project\Main\Be Sound Rhythmical\Be Sound Rhythmical\gameplay.h(175,18): warning C4244: '=': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kimhe\OneDrive\문서\Programming Project\Main\Be Sound Rhythmical\Be Sound Rhythmical\gameplay.h(747,153): warning C4133: '함수': 'char [6]'과(와) 'LPCWSTR' 사이의 형식이 호환되지 않습니다.
+C:\Users\kimhe\OneDrive\문서\Programming Project\Main\Be Sound Rhythmical\Be Sound Rhythmical\gameplay.h(779,23): warning C4047: '==': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\kimhe\OneDrive\문서\Programming Project\Main\Be Sound Rhythmical\Be Sound Rhythmical\gameplay.h(791,7): warning C4013: '_kbhit'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\kimhe\OneDrive\문서\Programming Project\Main\Be Sound Rhythmical\Be Sound Rhythmical\gameplay.h(792,10): warning C4013: '_getch'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\kimhe\OneDrive\문서\Programming Project\Main\Be Sound Rhythmical\Be Sound Rhythmical\gameplay.h(763,7): warning C4101: 'buf' :참조되지 않은 지역 변수입니다.
+C:\Users\kimhe\OneDrive\문서\Programming Project\Main\Be Sound Rhythmical\Be Sound Rhythmical\gameplay.h(889,30): warning C4244: '=': 'ULONGLONG'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kimhe\OneDrive\문서\Programming Project\Main\Be Sound Rhythmical\Be Sound Rhythmical\gameplay.h(891,32): warning C4244: '=': 'ULONGLONG'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kimhe\OneDrive\문서\Programming Project\Main\Be Sound Rhythmical\Be Sound Rhythmical\gameplay.h(898,32): warning C4244: '=': 'ULONGLONG'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kimhe\OneDrive\문서\Programming Project\Main\Be Sound Rhythmical\Be Sound Rhythmical\gameplay.h(902,2): warning C4033: 'M_Timer'은(는) 값을 반환해야 합니다.
+C:\Users\kimhe\OneDrive\문서\Programming Project\Main\Be Sound Rhythmical\Be Sound Rhythmical\gameplay.h(893,19): warning C4244: '초기화 중': 'ULONGLONG'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kimhe\OneDrive\문서\Programming Project\Main\Be Sound Rhythmical\Be Sound Rhythmical\gameplay.h(967,2): warning C4033: 'CheckKeyPress'은(는) 값을 반환해야 합니다.
+C:\Users\kimhe\OneDrive\문서\Programming Project\Main\Be Sound Rhythmical\Be Sound Rhythmical\gameplay.h(1615,2): warning C4033: 'GameStatusCheck'은(는) 값을 반환해야 합니다.
+C:\Users\kimhe\OneDrive\문서\Programming Project\Main\Be Sound Rhythmical\Be Sound Rhythmical\gameplay.h(1683,86): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kimhe\OneDrive\문서\Programming Project\Main\Be Sound Rhythmical\Be Sound Rhythmical\gameplay.h(1687,86): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kimhe\OneDrive\문서\Programming Project\Main\Be Sound Rhythmical\Be Sound Rhythmical\gameplay.h(1722,68): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kimhe\OneDrive\문서\Programming Project\Main\Be Sound Rhythmical\Be Sound Rhythmical\gameplay.h(1722,142): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kimhe\OneDrive\문서\Programming Project\Main\Be Sound Rhythmical\Be Sound Rhythmical\gameplay.h(1816,21): warning C4133: '함수': 'char [500]'과(와) 'LPCWSTR' 사이의 형식이 호환되지 않습니다.
+C:\Users\kimhe\OneDrive\문서\Programming Project\Main\Be Sound Rhythmical\Be Sound Rhythmical\gameplay.h(1809,18): warning C4047: '초기화 중': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\kimhe\OneDrive\문서\Programming Project\Main\Be Sound Rhythmical\Be Sound Rhythmical\gameplay.h(1821,52): warning C4133: '=': 'char *'과(와) 'LPCWSTR' 사이의 형식이 호환되지 않습니다.
+C:\Users\kimhe\OneDrive\문서\Programming Project\Main\Be Sound Rhythmical\Be Sound Rhythmical\gameplay.h(1822,39): warning C4133: '=': 'char [10]'과(와) 'LPCWSTR' 사이의 형식이 호환되지 않습니다.
+C:\Users\kimhe\OneDrive\문서\Programming Project\Main\Be Sound Rhythmical\Be Sound Rhythmical\gameplay.h(1824,21): warning C4047: '함수': 'MCIDEVICEID'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\kimhe\OneDrive\문서\Programming Project\Main\Be Sound Rhythmical\Be Sound Rhythmical\gameplay.h(1824,17): warning C4024: 'mciSendCommandW': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\kimhe\OneDrive\문서\Programming Project\Main\Be Sound Rhythmical\Be Sound Rhythmical\gameplay.h(1832,37): warning C4133: '=': 'char *'과(와) 'LPCWSTR' 사이의 형식이 호환되지 않습니다.
+C:\Users\kimhe\OneDrive\문서\Programming Project\Main\Be Sound Rhythmical\Be Sound Rhythmical\gameplay.h(1833,39): warning C4133: '=': 'char [10]'과(와) 'LPCWSTR' 사이의 형식이 호환되지 않습니다.
+C:\Users\kimhe\OneDrive\문서\Programming Project\Main\Be Sound Rhythmical\Be Sound Rhythmical\gameplay.h(1835,21): warning C4047: '함수': 'MCIDEVICEID'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\kimhe\OneDrive\문서\Programming Project\Main\Be Sound Rhythmical\Be Sound Rhythmical\gameplay.h(1835,17): warning C4024: 'mciSendCommandW': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\kimhe\OneDrive\문서\Programming Project\Main\Be Sound Rhythmical\Be Sound Rhythmical\gameplay.h(1844,36): warning C4047: '함수': 'DWORD_PTR'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\kimhe\OneDrive\문서\Programming Project\Main\Be Sound Rhythmical\Be Sound Rhythmical\gameplay.h(1844,32): warning C4024: 'mciSendCommandW': 형식 및 실제 매개 변수 3의 형식이 서로 다릅니다.
+C:\Users\kimhe\OneDrive\문서\Programming Project\Main\Be Sound Rhythmical\Be Sound Rhythmical\gameplay.h(1856,41): warning C4047: '함수': 'DWORD_PTR'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\kimhe\OneDrive\문서\Programming Project\Main\Be Sound Rhythmical\Be Sound Rhythmical\gameplay.h(1856,37): warning C4024: 'mciSendCommandW': 형식 및 실제 매개 변수 4의 형식이 서로 다릅니다.
+C:\Users\kimhe\OneDrive\문서\Programming Project\Main\Be Sound Rhythmical\Be Sound Rhythmical\gameplay.h(1861,40): warning C4047: '함수': 'DWORD_PTR'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\kimhe\OneDrive\문서\Programming Project\Main\Be Sound Rhythmical\Be Sound Rhythmical\gameplay.h(1861,36): warning C4024: 'mciSendCommandW': 형식 및 실제 매개 변수 4의 형식이 서로 다릅니다.
+C:\Users\kimhe\OneDrive\문서\Programming Project\Main\Be Sound Rhythmical\Be Sound Rhythmical\gameplay.h(1874,142): warning C4133: '함수': 'char [6]'과(와) 'LPCWSTR' 사이의 형식이 호환되지 않습니다.
+C:\Users\kimhe\OneDrive\문서\Programming Project\Main\Be Sound Rhythmical\Be Sound Rhythmical\gameplay.h(1875,148): warning C4133: '함수': 'char [6]'과(와) 'LPCWSTR' 사이의 형식이 호환되지 않습니다.
+C:\Users\kimhe\OneDrive\문서\Programming Project\Main\Be Sound Rhythmical\Be Sound Rhythmical\gameplay.h(1876,148): warning C4133: '함수': 'char [6]'과(와) 'LPCWSTR' 사이의 형식이 호환되지 않습니다.
+C:\Users\kimhe\OneDrive\문서\Programming Project\Main\Be Sound Rhythmical\Be Sound Rhythmical\gameplay.h(1877,146): warning C4133: '함수': 'char [6]'과(와) 'LPCWSTR' 사이의 형식이 호환되지 않습니다.
+C:\Users\kimhe\OneDrive\문서\Programming Project\Main\Be Sound Rhythmical\Be Sound Rhythmical\gameplay.h(1879,18): warning C4047: '초기화 중': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\kimhe\OneDrive\문서\Programming Project\Main\Be Sound Rhythmical\Be Sound Rhythmical\gameplay.h(1908,9): warning C4101: 'Bitmap' :참조되지 않은 지역 변수입니다.
+C:\Users\kimhe\OneDrive\문서\Programming Project\Main\Be Sound Rhythmical\Be Sound Rhythmical\gameplay.h(1907,35): warning C4101: 'hNewBitmap' :참조되지 않은 지역 변수입니다.
+C:\Users\kimhe\OneDrive\문서\Programming Project\Main\Be Sound Rhythmical\Be Sound Rhythmical\gameplay.h(1952,148): warning C4133: '함수': 'char [6]'과(와) 'LPCWSTR' 사이의 형식이 호환되지 않습니다.
+C:\Users\kimhe\OneDrive\문서\Programming Project\Main\Be Sound Rhythmical\Be Sound Rhythmical\gameplay.h(2081,9): warning C4101: 'Bitmap' :참조되지 않은 지역 변수입니다.
+C:\Users\kimhe\OneDrive\문서\Programming Project\Main\Be Sound Rhythmical\Be Sound Rhythmical\gameplay.h(2080,35): warning C4101: 'hNewBitmap' :참조되지 않은 지역 변수입니다.
+C:\Users\kimhe\OneDrive\문서\Programming Project\Main\Be Sound Rhythmical\Be Sound Rhythmical\gameplay.h(2139,154): warning C4133: '함수': 'char [6]'과(와) 'LPCWSTR' 사이의 형식이 호환되지 않습니다.
+C:\Users\kimhe\OneDrive\문서\Programming Project\Main\Be Sound Rhythmical\Be Sound Rhythmical\gameplay.h(2140,155): warning C4133: '함수': 'char [6]'과(와) 'LPCWSTR' 사이의 형식이 호환되지 않습니다.
+C:\Users\kimhe\OneDrive\문서\Programming Project\Main\Be Sound Rhythmical\Be Sound Rhythmical\gameplay.h(2141,154): warning C4133: '함수': 'char [6]'과(와) 'LPCWSTR' 사이의 형식이 호환되지 않습니다.
+C:\Users\kimhe\OneDrive\문서\Programming Project\Main\Be Sound Rhythmical\Be Sound Rhythmical\gameplay.h(2145,16): warning C4047: '함수': 'char *const '의 간접 참조 수준이 'char *[200]'과(와) 다릅니다.
+C:\Users\kimhe\OneDrive\문서\Programming Project\Main\Be Sound Rhythmical\Be Sound Rhythmical\gameplay.h(2145,11): warning C4024: 'sprintf': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\kimhe\OneDrive\문서\Programming Project\Main\Be Sound Rhythmical\Be Sound Rhythmical\main.c(17,39): warning C4133: '함수': 'char [20]'과(와) 'LPCWSTR' 사이의 형식이 호환되지 않습니다.
+  MapReader.c
+C:\Users\kimhe\OneDrive\문서\Programming Project\Main\Be Sound Rhythmical\Be Sound Rhythmical\MapReader.c(16,19): warning C4047: '초기화 중': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\kimhe\OneDrive\문서\Programming Project\Main\Be Sound Rhythmical\Be Sound Rhythmical\MapReader.c(125,29): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kimhe\OneDrive\문서\Programming Project\Main\Be Sound Rhythmical\Be Sound Rhythmical\MapReader.c(98,19): warning C4047: '초기화 중': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\kimhe\OneDrive\문서\Programming Project\Main\Be Sound Rhythmical\Be Sound Rhythmical\MapReader.c(131,20): warning C4047: '초기화 중': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\kimhe\OneDrive\문서\Programming Project\Main\Be Sound Rhythmical\Be Sound Rhythmical\MapReader.c(194,30): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kimhe\OneDrive\문서\Programming Project\Main\Be Sound Rhythmical\Be Sound Rhythmical\MapReader.c(199,29): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kimhe\OneDrive\문서\Programming Project\Main\Be Sound Rhythmical\Be Sound Rhythmical\MapReader.c(204,36): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kimhe\OneDrive\문서\Programming Project\Main\Be Sound Rhythmical\Be Sound Rhythmical\MapReader.c(209,31): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kimhe\OneDrive\문서\Programming Project\Main\Be Sound Rhythmical\Be Sound Rhythmical\MapReader.c(187,19): warning C4047: '초기화 중': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+  Pan.c
+C:\Users\kimhe\OneDrive\문서\Programming Project\Main\Be Sound Rhythmical\Be Sound Rhythmical\Pan.c(41,93): warning C4022: '_beginthreadex': 실제 매개 변수 4의 포인터가 일치하지 않습니다.
+C:\Users\kimhe\OneDrive\문서\Programming Project\Main\Be Sound Rhythmical\Be Sound Rhythmical\Pan.c(40,11): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kimhe\OneDrive\문서\Programming Project\Main\Be Sound Rhythmical\Be Sound Rhythmical\Pan.c(51,42): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kimhe\OneDrive\문서\Programming Project\Main\Be Sound Rhythmical\Be Sound Rhythmical\Pan.c(67,40): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kimhe\OneDrive\문서\Programming Project\Main\Be Sound Rhythmical\Be Sound Rhythmical\Pan.c(83,40): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kimhe\OneDrive\문서\Programming Project\Main\Be Sound Rhythmical\Be Sound Rhythmical\Pan.c(112,8): warning C4244: '-=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다.
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\kimhe\OneDrive\문서\Programming Project\Main\Be Sound Rhythmical\Be Sound Rhythmical\gameplay.h(2130): warning C4716: 'ScoreIncVisual': 값을 반환해야 합니다.
+C:\Users\kimhe\OneDrive\문서\Programming Project\Main\Be Sound Rhythmical\Be Sound Rhythmical\gameplay.h(1583): warning C4716: 'Pan_Timer': 값을 반환해야 합니다.
+C:\Users\kimhe\OneDrive\문서\Programming Project\Main\Be Sound Rhythmical\Be Sound Rhythmical\gameplay.h(903): warning C4716: 'M_Timer': 값을 반환해야 합니다.
+C:\Users\kimhe\OneDrive\문서\Programming Project\Main\Be Sound Rhythmical\Be Sound Rhythmical\gameplay.h(1616): warning C4716: 'GameStatusCheck': 값을 반환해야 합니다.
+C:\Users\kimhe\OneDrive\문서\Programming Project\Main\Be Sound Rhythmical\Be Sound Rhythmical\gameplay.h(968): warning C4716: 'CheckKeyPress': 값을 반환해야 합니다.
+  All 59 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  코드를 생성했습니다.
+  Be Sound Rhythmical.vcxproj -> C:\Users\kimhe\OneDrive\문서\Programming Project\Main\Be Sound Rhythmical\Release\Be Sound Rhythmical.exe
